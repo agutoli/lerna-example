@@ -1,9 +1,9 @@
 {
   "name": "pkg-1",
-  "version": "1.1.4",
+  "version": "1.1.7",
   "main": "index.js",
   "dependencies": {
-    "pkg-2": "github:agutoli/pkg-2#v1.1.4"
+    "pkg-2": "github:agutoli/pkg-2#v1.1.7"
   },
   "gitHead": "3627bc1ef3fa301f8bcd99be633b10b24e1cef11"
 }
