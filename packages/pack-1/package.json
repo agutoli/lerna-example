@@ -1,9 +1,9 @@
 {
   "name": "pkg-1",
-  "version": "1.1.3-alpha.3+c509ec7",
+  "version": "1.1.3-alpha.4+3627bc1",
   "main": "index.js",
   "dependencies": {
-    "pkg-2": "github:agutoli/pkg-2#v1.1.3-alpha.3+c509ec7"
+    "pkg-2": "github:agutoli/pkg-2#v1.1.3-alpha.4+3627bc1"
   },
-  "gitHead": "c509ec78a88d2f5f4093ad70c2d74b200026e947"
+  "gitHead": "3627bc1ef3fa301f8bcd99be633b10b24e1cef11"
 }
