@@ -1,6 +1,7 @@
 {
   "name": "pkg-1",
   "version": "0.0.1",
+  "main": "index.js",
   "dependencies": {
     "pkg-2": "github:agutoli/pkg-2#v0.0.1"
   }
