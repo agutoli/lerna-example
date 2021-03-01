@@ -1,6 +1,6 @@
 {
     "name": "pkg-2",
-    "version": "1.1.16-alpha.3+240d4c3",
+    "version": "1.1.17",
     "main": "index.js",
     "gitHead": "240d4c365f77d0503eebecfad023c733da62870d"
 }
