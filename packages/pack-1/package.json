@@ -1,0 +1,9 @@
+{
+  "name": "new-pkg-1",
+  "version": "1.0.4-beta.8",
+  "main": "index.js",
+  "dependencies": {
+    "pkg-2": "github:agutoli/pkg-2#v1.1.7"
+  },
+  "gitHead": "240d4c365f77d0503eebecfad023c733da62870d"
+}

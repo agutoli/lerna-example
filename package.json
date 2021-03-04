@@ -1,0 +1,23 @@
+{
+  "name": "lerna-example",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna:version": "lerna version",
+    "lerna:publish": "lerna publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agutoli/lerna-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agutoli/lerna-example/issues"
+  },
+  "homepage": "https://github.com/agutoli/lerna-example#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
