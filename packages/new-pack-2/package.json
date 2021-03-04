@@ -1,5 +1,5 @@
 {
     "name": "new-pkg-2",
-    "version": "1.0.4",
+    "version": "1.0.4-beta.0",
     "main": "index.js"
 }
