@@ -1,6 +1,6 @@
 {
     "name": "new-pkg-2",
-    "version": "1.0.4-beta.8",
+    "version": "1.0.4-alpha.0",
     "main": "index.js",
     "gitHead": "240d4c365f77d0503eebecfad023c733da62870d"
 }
